@@ -1,2 +1,1 @@
-# Refactored version
-print("Bikeshare project - updated")
+print("Refactor complete")
