@@ -1,1 +1,2 @@
-print("Hello Bikeshare")
+# Refactored version
+print("Bikeshare project - updated")
